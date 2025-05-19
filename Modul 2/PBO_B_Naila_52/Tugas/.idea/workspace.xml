@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="86b8deb1-8fd9-40d1-8ec9-5f9009ebb12b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../PBO/latihan/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PBO/latihan/src/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PBO/src/CalonSiswa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codelab/Modul 3/src/KarakterGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codelab/Modul 3/src/Musuh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codelab/Modul 3/src/Pahlawan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codelab/Modul 4/src/app/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codelab/Modul 4/src/perpustakaan/Anggota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codelab/Modul 4/src/perpustakaan/Buku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codelab/Modul 4/src/perpustakaan/Fiksi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codelab/Modul 4/src/perpustakaan/NonFiksi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codelab/Modul 4/src/perpustakaan/Peminjaman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codelab/Modul 5/src/Barang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codelab/Modul 5/src/StokTidakCukupException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modul 2/src/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modul 2/src/LoginSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modul 2/src/Mahasiswa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modul 3/src/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modul 3/src/LoginSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modul 3/src/Mahasiswa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modul 3/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/praktikum/actions/AdminActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/praktikum/actions/MahasiswaActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/praktikum/data/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/praktikum/main/LoginSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/praktikum/users/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/praktikum/users/Mahasiswa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/praktikum/users/User.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2wcWl8JzMxfLTkGejeTCyMXFRny" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.LoginSystem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/WINDOWS 11/Documents/PBO_B_Naila_52/Tugas/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.LoginSystem">
+    <configuration name="LoginSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.praktikum.main.LoginSystem" />
+      <module name="tugas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.praktikum.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="tugas" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LoginSystem" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86b8deb1-8fd9-40d1-8ec9-5f9009ebb12b" name="Changes" comment="" />
+      <created>1746341494819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746341494819</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/praktikum/data/Item.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/praktikum/data/Item.java</url>
+          <line>8</line>
+          <properties class="com.praktikum.data.Item" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/praktikum/main/LoginSystem.java</url>
+          <line>14</line>
+          <properties class="com.praktikum.main.LoginSystem" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
